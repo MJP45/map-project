@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+/* Set the size of the div element that contains the map */
+body {
+  background-color: #cc98fc;
+  text-align: center; }
+
+#map {
+  height: 500px;
+  width: 80vw;
+  margin: 10%;
+  border: 2px solid black;
+  position: block; }
